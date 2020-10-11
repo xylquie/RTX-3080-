@@ -1,0 +1,57 @@
+body{
+	margin: 0;
+	font-family: 'Oswald', sans-serif;
+	font-size: 15px;
+	line-height: 30px;
+}
+
+header{
+	background-color: black;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+h1, h2{
+	font-family: 'Oswald', sans-serif;
+	font-color: #FF4500;
+}
+
+header h1{
+	color: #FF4500;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 15px;
+	width: 400px;
+	border: 10px solid #FF4500;
+}
+
+main{
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 20px; 
+}
+
+main img{
+	max-width: 100%;
+	border-radius: 15px 50px 30px;
+}
+
+h2{
+	font-size: 35px;
+	color: #FF4500;
+
+}
+
+footer{
+	background-color: black;
+	text-align: center;
+	color: white;
+	padding: 50px;
+ }
+
+ footer p{
+ 	margin: 0;
+ }
